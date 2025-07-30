@@ -11,3 +11,6 @@ Code splitting for cuelang code.
 - this project exists to support [cuerun](https://github.com/ravinsharma7/cuerun) functionality. split dependencies and code for `cue cmd tasks`.
 - seperating them into a sub project helps me to focus without conflating the functionality between the boundaries.
 - seperating them as another project also allows its binaries size to be seperated from upstream project.
+
+# How to use
+TBD
